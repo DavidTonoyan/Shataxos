@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\C#\Beispiel\obj\Debug\netcoreapp3.0\Beispiel.csprojAssemblyReference.cache
+C:\Users\HP\Documents\C#\Beispiel\obj\Debug\netcoreapp3.0\Beispiel.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\C#\Beispiel\obj\Debug\netcoreapp3.0\Beispiel.AssemblyInfo.cs
+C:\Users\HP\Documents\C#\Beispiel\bin\Debug\netcoreapp3.0\Beispiel.exe
+C:\Users\HP\Documents\C#\Beispiel\bin\Debug\netcoreapp3.0\Beispiel.deps.json
+C:\Users\HP\Documents\C#\Beispiel\bin\Debug\netcoreapp3.0\Beispiel.runtimeconfig.json
+C:\Users\HP\Documents\C#\Beispiel\bin\Debug\netcoreapp3.0\Beispiel.runtimeconfig.dev.json
+C:\Users\HP\Documents\C#\Beispiel\bin\Debug\netcoreapp3.0\Beispiel.dll
+C:\Users\HP\Documents\C#\Beispiel\bin\Debug\netcoreapp3.0\Beispiel.pdb
+C:\Users\HP\Documents\C#\Beispiel\obj\Debug\netcoreapp3.0\Beispiel.dll
+C:\Users\HP\Documents\C#\Beispiel\obj\Debug\netcoreapp3.0\Beispiel.pdb
